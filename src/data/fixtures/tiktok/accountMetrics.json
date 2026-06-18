@@ -1,0 +1,23 @@
+{
+  "_account":  "@jatiraras.sawarga",
+  "_note":     "Period-level KPI metrics for the dashboard summary cards. Shape matches TikTokAccountMetrics in models/tiktok.js. All numbers are placeholder estimates — replace with real values when the public data service is connected.",
+
+  "followers":        12400,
+  "followersChange":  8.3,
+  "following":        38,
+  "totalLikes":       87600,
+  "likesChange":      5.1,
+  "totalViews":       418000,
+  "viewsChange":      11.2,
+  "totalComments":    3140,
+  "commentsChange":   -2.4,
+  "totalShares":      5820,
+  "sharesChange":     6.7,
+  "totalEngagement":  18200,
+  "engagementChange": 4.6,
+  "engagementRate":   6.8,
+  "totalPosts":       94,
+  "postsChange":      3.2,
+  "profileVisits":    21400,
+  "lastUpdatedAt":    "2026-06-17T08:00:00Z"
+}

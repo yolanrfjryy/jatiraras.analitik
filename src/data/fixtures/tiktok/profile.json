@@ -1,0 +1,15 @@
+{
+  "_account":  "@jatiraras.sawarga",
+  "_note":     "Public profile data for Jatiraras Sawarga restaurant TikTok account. Figures are placeholder estimates — replace with live-scraped values when the public data service is connected. Shape matches TikTokPublicProfile in models/tiktok.js.",
+
+  "username":     "jatiraras.sawarga",
+  "displayName":  "Jatiraras Sawarga",
+  "bio":          "Restoran Jatiraras Sawarga 🍽️ | Masakan Nusantara | Jakarta | Reservasi & Info: link di bio",
+  "avatarUrl":    "",
+  "profileUrl":   "https://www.tiktok.com/@jatiraras.sawarga",
+  "followers":    12400,
+  "following":    38,
+  "totalLikes":   87600,
+  "totalVideos":  94,
+  "lastFetchedAt": "2026-06-17T08:00:00Z"
+}

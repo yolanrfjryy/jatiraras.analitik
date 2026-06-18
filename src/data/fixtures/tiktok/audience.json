@@ -1,0 +1,29 @@
+{
+  "_comment": "TikTokAudienceMetrics — matches models/tiktok.js typedef",
+  "ageGroups": [
+    { "range": "13-17", "percent": 4 },
+    { "range": "18-24", "percent": 31 },
+    { "range": "25-34", "percent": 38 },
+    { "range": "35-44", "percent": 18 },
+    { "range": "45-54", "percent": 7 },
+    { "range": "55+",   "percent": 2 }
+  ],
+  "gender": {
+    "male":   42,
+    "female": 55,
+    "other":  3
+  },
+  "topLocations": [
+    { "country": "Indonesia",   "countryCode": "ID", "percent": 84 },
+    { "country": "Malaysia",    "countryCode": "MY", "percent": 6  },
+    { "country": "Singapore",   "countryCode": "SG", "percent": 4  },
+    { "country": "Australia",   "countryCode": "AU", "percent": 2  },
+    { "country": "Netherlands", "countryCode": "NL", "percent": 1  },
+    { "country": "Other",       "countryCode": "XX", "percent": 3  }
+  ],
+  "devices": {
+    "mobile":  92,
+    "desktop": 5,
+    "tablet":  3
+  }
+}

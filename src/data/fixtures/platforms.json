@@ -1,0 +1,27 @@
+{
+  "_comment": "Platform status entries used in overviewMock.js and PlatformStatusSection. Matches PlatformSummary shape in models/platform.js.",
+  "platforms": [
+    {
+      "key":       "tiktok",
+      "label":     "TikTok",
+      "status":    "active",
+      "color":     "#010101",
+      "followers": null,
+      "_note":     "followers is populated at runtime from accountMetricsFixture"
+    },
+    {
+      "key":       "instagram",
+      "label":     "Instagram",
+      "status":    "coming_soon",
+      "color":     "#c13584",
+      "followers": null
+    },
+    {
+      "key":       "youtube",
+      "label":     "YouTube",
+      "status":    "coming_soon",
+      "color":     "#ff0000",
+      "followers": null
+    }
+  ]
+}

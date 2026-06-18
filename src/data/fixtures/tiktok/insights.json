@@ -1,0 +1,39 @@
+{
+  "_account": "@jatiraras.sawarga",
+  "_note":    "AI insight cards for the Analytics page. Simple, account-specific observations based on public video performance. Shape matches TikTokAiInsight[] in models/tiktok.js.",
+
+  "insights": [
+    {
+      "id":        "ins_001",
+      "summary":   "Engagement trending up",
+      "detail":    "Engagement rate on @jatiraras.sawarga has increased steadily over the last 14 days. Behind-the-scenes kitchen videos consistently generate the highest interaction rate.",
+      "trend":     "positive",
+      "category":  "engagement",
+      "updatedAt": "2026-06-17T08:00:00Z"
+    },
+    {
+      "id":        "ins_002",
+      "summary":   "Best time to post: 5–7 PM",
+      "detail":    "Videos published between 17:00–19:00 WIB reach significantly more viewers within the first hour. Scheduling posts in this window is recommended.",
+      "trend":     "positive",
+      "category":  "content",
+      "updatedAt": "2026-06-17T08:00:00Z"
+    },
+    {
+      "id":        "ins_003",
+      "summary":   "Comment rate slightly down",
+      "detail":    "Comment volume dropped slightly compared to the previous period. Adding a question or call-to-action at the end of videos typically lifts comment counts.",
+      "trend":     "negative",
+      "category":  "engagement",
+      "updatedAt": "2026-06-17T08:00:00Z"
+    },
+    {
+      "id":        "ins_004",
+      "summary":   "Food-process videos perform best",
+      "detail":    "Content showing cooking preparation — like sate and nasi goreng making — averages 2× more shares than product-only or promotional posts.",
+      "trend":     "neutral",
+      "category":  "content",
+      "updatedAt": "2026-06-17T08:00:00Z"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "_account": "@jatiraras.sawarga",
+  "_note":    "Forward-looking predictions for the Analytics page card. Simple trend extrapolations based on current public data. Shape matches TikTokPrediction[] in models/tiktok.js.",
+
+  "predictions": [
+    {
+      "id":             "pred_001",
+      "metric":         "followers",
+      "summary":        "Follower growth on track",
+      "detail":         "At the current growth rate, @jatiraras.sawarga is on track to reach 14K followers within the next 30 days — roughly a 13% increase from today's count.",
+      "confidence":     74,
+      "horizon":        "30 days",
+      "projectedValue": 14000,
+      "generatedAt":    "2026-06-17T08:00:00Z"
+    },
+    {
+      "id":             "pred_002",
+      "metric":         "views",
+      "summary":        "Monthly views expected to grow",
+      "detail":         "Based on recent posting frequency and engagement trends, monthly views are projected to exceed 500K next month if the current content cadence is maintained.",
+      "confidence":     61,
+      "horizon":        "30 days",
+      "projectedValue": 500000,
+      "generatedAt":    "2026-06-17T08:00:00Z"
+    },
+    {
+      "id":             "pred_003",
+      "metric":         "engagementRate",
+      "summary":        "Engagement rate expected to hold",
+      "detail":         "Engagement rate is projected to stay between 6.5–7.5% over the next 28 days, provided posting frequency remains at 2–3 videos per week.",
+      "confidence":     68,
+      "horizon":        "28 days",
+      "projectedValue": 7.0,
+      "generatedAt":    "2026-06-17T08:00:00Z"
+    }
+  ]
+}
