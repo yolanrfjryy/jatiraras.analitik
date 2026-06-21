@@ -33,7 +33,7 @@ export const PLATFORMS = [
     label:   'Instagram',
     color:   '#c13584',
     bgClass: 'bg-platform-instagram',
-    enabled: false,           // flip to true when Instagram API is connected
+    enabled: true,
     basePath: '/instagram',
   },
   {

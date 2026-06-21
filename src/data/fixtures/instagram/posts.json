@@ -1,0 +1,124 @@
+{
+  "_account": "@jatiraras.sawarga (Instagram)",
+  "_note": "Mock Instagram post list. thumbnailUrl empty until live — thumbnailBg is the colour placeholder.",
+
+  "posts": [
+    {
+      "id":           "ig_001",
+      "caption":      "Nasi Goreng Spesial Jatiraras 🍳 Bumbu rahasia turun-temurun yang bikin ketagihan! Yuk coba di restoran kami. #nasigoreng #jatiraras #kulinerjakarta",
+      "thumbnailUrl": "",
+      "thumbnailBg":  "bg-orange-200",
+      "postUrl":      "https://www.instagram.com/p/ig_001",
+      "uploadDate":   "2026-06-14",
+      "views":        24600,
+      "likes":        1840,
+      "comments":     124,
+      "shares":       210,
+      "mediaType":    "reel"
+    },
+    {
+      "id":           "ig_002",
+      "caption":      "Sate Ayam Jatiraras — dibakar satu per satu dengan arang asli 🔥 Rasanya autentik dan juicy! #sateayam #jatiraras #indonesianfood",
+      "thumbnailUrl": "",
+      "thumbnailBg":  "bg-amber-200",
+      "postUrl":      "https://www.instagram.com/p/ig_002",
+      "uploadDate":   "2026-06-11",
+      "views":        18900,
+      "likes":        1420,
+      "comments":     98,
+      "shares":       163,
+      "mediaType":    "reel"
+    },
+    {
+      "id":           "ig_003",
+      "caption":      "Menu baru Sawarga Special Edition sudah hadir! 🌿 Rasakan cita rasa Nusantara dalam satu sajian istimewa. #menubaru #sawarga #restoranjakarta",
+      "thumbnailUrl": "",
+      "thumbnailBg":  "bg-emerald-200",
+      "postUrl":      "https://www.instagram.com/p/ig_003",
+      "uploadDate":   "2026-06-08",
+      "views":        15300,
+      "likes":        1180,
+      "comments":     76,
+      "shares":       142,
+      "mediaType":    "carousel"
+    },
+    {
+      "id":           "ig_004",
+      "caption":      "Persiapan dapur dari subuh — fresh ingredients, fresh flavors! 🥬🥩 Kualitas selalu jadi prioritas kami. #kitchenprep #freshfood #jatiraras",
+      "thumbnailUrl": "",
+      "thumbnailBg":  "bg-sky-200",
+      "postUrl":      "https://www.instagram.com/p/ig_004",
+      "uploadDate":   "2026-06-05",
+      "views":        11200,
+      "likes":        864,
+      "comments":     52,
+      "shares":       98,
+      "mediaType":    "reel"
+    },
+    {
+      "id":           "ig_005",
+      "caption":      "Soto Betawi Jatiraras — kuah santan kental gurih yang bikin hangat di perut 🥣 Wajib dicoba! #sotobetawi #jatiraras #kulinernusantara",
+      "thumbnailUrl": "",
+      "thumbnailBg":  "bg-rose-200",
+      "postUrl":      "https://www.instagram.com/p/ig_005",
+      "uploadDate":   "2026-06-02",
+      "views":        9800,
+      "likes":        742,
+      "comments":     48,
+      "shares":       87,
+      "mediaType":    "photo"
+    },
+    {
+      "id":           "ig_006",
+      "caption":      "Sunset di Jatiraras Sawarga — suasana makan malam yang nyaman dan romantis 🌅 Cocok untuk momen spesial bersama orang tersayang. #diningvibes #jakarta",
+      "thumbnailUrl": "",
+      "thumbnailBg":  "bg-violet-200",
+      "postUrl":      "https://www.instagram.com/p/ig_006",
+      "uploadDate":   "2026-05-29",
+      "views":        8400,
+      "likes":        632,
+      "comments":     41,
+      "shares":       74,
+      "mediaType":    "photo"
+    },
+    {
+      "id":           "ig_007",
+      "caption":      "Nasi Tumpeng Jatiraras untuk perayaan keluarga 🎉 Dipesan khusus, dikerjakan dengan cinta. Hubungi kami untuk catering. #nasitumpeng #catering #jatiraras",
+      "thumbnailUrl": "",
+      "thumbnailBg":  "bg-teal-200",
+      "postUrl":      "https://www.instagram.com/p/ig_007",
+      "uploadDate":   "2026-05-26",
+      "views":        7100,
+      "likes":        548,
+      "comments":     36,
+      "shares":       63,
+      "mediaType":    "carousel"
+    },
+    {
+      "id":           "ig_008",
+      "caption":      "Sate Lilit Bali ala Jatiraras — bumbu rempah khas Bali yang kaya rasa 🌺 #satelilit #balinese #restoranjakarta #jatiraras",
+      "thumbnailUrl": "",
+      "thumbnailBg":  "bg-pink-200",
+      "postUrl":      "https://www.instagram.com/p/ig_008",
+      "uploadDate":   "2026-05-22",
+      "views":        5900,
+      "likes":        456,
+      "comments":     29,
+      "shares":       52,
+      "mediaType":    "reel"
+    },
+    {
+      "id":           "ig_009",
+      "caption":      "3 dessert pilihan terbaik Jatiraras 🍮🍨 Manis di akhir makan siang selalu bikin semangat! Mana yang jadi favoritmu? #dessert #jatiraras #kulinerjakarta",
+      "thumbnailUrl": "",
+      "thumbnailBg":  "bg-yellow-200",
+      "postUrl":      "https://www.instagram.com/p/ig_009",
+      "uploadDate":   "2026-05-18",
+      "views":        4800,
+      "likes":        376,
+      "comments":     24,
+      "shares":       44,
+      "mediaType":    "carousel"
+    }
+  ]
+}

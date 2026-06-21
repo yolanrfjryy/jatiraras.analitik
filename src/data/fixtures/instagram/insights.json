@@ -1,0 +1,29 @@
+{
+  "_account": "@jatiraras.sawarga (Instagram)",
+  "insights": [
+    {
+      "id":        "ig_ins_001",
+      "summary":   "Reels drive 2× more reach",
+      "detail":    "Instagram Reels content for @jatiraras.sawarga consistently achieves 2× the organic reach compared to static photo posts. Prioritising short-form video content is recommended.",
+      "trend":     "positive",
+      "category":  "content",
+      "updatedAt": "2026-06-17T08:00:00Z"
+    },
+    {
+      "id":        "ig_ins_002",
+      "summary":   "Best posting day is Friday",
+      "detail":    "Posts published on Fridays receive 28% higher engagement within the first 24 hours compared to weekday averages. Consider scheduling key content for Friday afternoons.",
+      "trend":     "positive",
+      "category":  "engagement",
+      "updatedAt": "2026-06-17T08:00:00Z"
+    },
+    {
+      "id":        "ig_ins_003",
+      "summary":   "Comment rate slightly declining",
+      "detail":    "Comment volume dropped 1.2% this period. Captions with a question or direct call-to-action typically increase comment rates by 15–25%.",
+      "trend":     "negative",
+      "category":  "engagement",
+      "updatedAt": "2026-06-17T08:00:00Z"
+    }
+  ]
+}

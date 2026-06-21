@@ -1,0 +1,21 @@
+{
+  "_account": "@jatiraras.sawarga (Instagram)",
+  "_note": "Mock Instagram account metrics. Replace with real data when Instagram Graph API is connected.",
+
+  "followers":        8740,
+  "followersChange":  6.2,
+  "following":        312,
+  "reach":            52400,
+  "reachChange":      9.8,
+  "totalLikes":       61200,
+  "likesChange":      7.4,
+  "totalComments":    2180,
+  "commentsChange":   -1.2,
+  "totalEngagement":  14600,
+  "engagementChange": 5.3,
+  "engagementRate":   5.6,
+  "totalPosts":       87,
+  "postsChange":      2.4,
+  "profileVisits":    18300,
+  "lastUpdatedAt":    "2026-06-17T08:00:00Z"
+}

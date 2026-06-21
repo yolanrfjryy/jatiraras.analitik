@@ -1,0 +1,25 @@
+{
+  "_account": "@jatiraras.sawarga (Instagram)",
+  "predictions": [
+    {
+      "id":             "ig_pred_001",
+      "metric":         "followers",
+      "summary":        "Follower count approaching 10K",
+      "detail":         "At the current growth rate, the account is projected to reach 10K followers within the next 30 days — unlocking the Instagram link-in-bio feature for all posts.",
+      "confidence":     72,
+      "horizon":        "30 days",
+      "projectedValue": 10000,
+      "generatedAt":    "2026-06-17T08:00:00Z"
+    },
+    {
+      "id":             "ig_pred_002",
+      "metric":         "reach",
+      "summary":        "Reach expected to grow 15%",
+      "detail":         "Based on current Reel performance and hashtag strategy, monthly reach is projected to grow by approximately 15% next month if posting frequency remains consistent.",
+      "confidence":     64,
+      "horizon":        "30 days",
+      "projectedValue": 60000,
+      "generatedAt":    "2026-06-17T08:00:00Z"
+    }
+  ]
+}
