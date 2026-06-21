@@ -1,0 +1,153 @@
+{
+  "_note": "Cross-platform top content mock data for Jatiraras Sawarga. Merge of TikTok + Instagram best-performing posts.",
+
+  "kpi": {
+    "totalTopContent":      18,
+    "highestViews":         84300,
+    "highestEngagement":    9.5,
+    "bestPlatform":         "TikTok"
+  },
+
+  "items": [
+    {
+      "id":             "tt_001",
+      "platform":       "tiktok",
+      "thumbnailBg":    "bg-orange-200",
+      "title":          "Nasi Goreng Spesial Jatiraras 🍳 Dimasak dengan bumbu rahasia turun-temurun",
+      "publishDate":    "2026-06-12",
+      "views":          84300,
+      "likes":          6120,
+      "comments":       418,
+      "shares":         930,
+      "engagementRate": 8.8
+    },
+    {
+      "id":             "tt_002",
+      "platform":       "tiktok",
+      "thumbnailBg":    "bg-amber-200",
+      "title":          "Proses pembuatan Sate Ayam Jatiraras dari pagi hari 🔥",
+      "publishDate":    "2026-06-09",
+      "views":          61700,
+      "likes":          4890,
+      "comments":       314,
+      "shares":         680,
+      "engagementRate": 9.5
+    },
+    {
+      "id":             "ig_001",
+      "platform":       "instagram",
+      "thumbnailBg":    "bg-pink-200",
+      "title":          "Nasi Goreng Spesial Jatiraras 🍳 Bumbu rahasia turun-temurun yang bikin ketagihan!",
+      "publishDate":    "2026-06-14",
+      "views":          24600,
+      "likes":          1840,
+      "comments":       124,
+      "shares":         210,
+      "engagementRate": 8.6
+    },
+    {
+      "id":             "tt_003",
+      "platform":       "tiktok",
+      "thumbnailBg":    "bg-emerald-200",
+      "title":          "Menu baru Sawarga Special Edition sudah tersedia! 🌿",
+      "publishDate":    "2026-06-06",
+      "views":          48200,
+      "likes":          3760,
+      "comments":       241,
+      "shares":         520,
+      "engagementRate": 9.4
+    },
+    {
+      "id":             "ig_002",
+      "platform":       "instagram",
+      "thumbnailBg":    "bg-amber-200",
+      "title":          "Sate Ayam Jatiraras — dibakar satu per satu dengan arang asli 🔥",
+      "publishDate":    "2026-06-11",
+      "views":          18900,
+      "likes":          1420,
+      "comments":       98,
+      "shares":         163,
+      "engagementRate": 8.9
+    },
+    {
+      "id":             "tt_004",
+      "platform":       "tiktok",
+      "thumbnailBg":    "bg-sky-200",
+      "title":          "Persiapan dapur Jatiraras setiap pagi — fresh ingredients every day! 🥬🥩",
+      "publishDate":    "2026-06-03",
+      "views":          32100,
+      "likes":          2440,
+      "comments":       158,
+      "shares":         310,
+      "engagementRate": 9.1
+    },
+    {
+      "id":             "ig_003",
+      "platform":       "instagram",
+      "thumbnailBg":    "bg-emerald-200",
+      "title":          "Menu baru Sawarga Special Edition sudah hadir! 🌿 Rasakan cita rasa Nusantara",
+      "publishDate":    "2026-06-08",
+      "views":          15300,
+      "likes":          1180,
+      "comments":       76,
+      "shares":         142,
+      "engagementRate": 9.2
+    },
+    {
+      "id":             "tt_005",
+      "platform":       "tiktok",
+      "thumbnailBg":    "bg-rose-200",
+      "title":          "Reaksi pelanggan pertama kali coba Soto Betawi Jatiraras 🥣",
+      "publishDate":    "2026-05-30",
+      "views":          27600,
+      "likes":          2180,
+      "comments":       143,
+      "shares":         270,
+      "engagementRate": 9.4
+    },
+    {
+      "id":             "tt_006",
+      "platform":       "tiktok",
+      "thumbnailBg":    "bg-violet-200",
+      "title":          "Suasana makan malam di Jatiraras Sawarga saat sunset 🌅",
+      "publishDate":    "2026-05-27",
+      "views":          21400,
+      "likes":          1720,
+      "comments":       112,
+      "shares":         198,
+      "engagementRate": 9.5
+    },
+    {
+      "id":             "ig_004",
+      "platform":       "instagram",
+      "thumbnailBg":    "bg-sky-200",
+      "title":          "Persiapan dapur dari subuh — fresh ingredients, fresh flavors! 🥬🥩",
+      "publishDate":    "2026-06-05",
+      "views":          11200,
+      "likes":          864,
+      "comments":       52,
+      "shares":         98,
+      "engagementRate": 9.1
+    }
+  ],
+
+  "insight": {
+    "id":        "tc_ins_001",
+    "summary":   "TikTok content leads across all metrics",
+    "detail":    "TikTok posts from @jatiraras.sawarga consistently outperform Instagram in both views and engagement rate. Behind-the-scenes kitchen content performs best on both platforms.",
+    "trend":     "positive",
+    "category":  "content",
+    "updatedAt": "2026-06-17T08:00:00Z"
+  },
+
+  "prediction": {
+    "id":             "tc_pred_001",
+    "metric":         "views",
+    "summary":        "Cross-platform reach growing steadily",
+    "detail":         "Combined monthly views across TikTok and Instagram are projected to surpass 600K next month if the current content cadence of 3–4 posts per week is maintained.",
+    "confidence":     70,
+    "horizon":        "30 days",
+    "projectedValue": 600000,
+    "generatedAt":    "2026-06-17T08:00:00Z"
+  }
+}

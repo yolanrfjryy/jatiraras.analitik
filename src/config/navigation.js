@@ -17,6 +17,7 @@ import {
   TrendingUp,
   Film,
   BarChart2,
+  Star,
 } from 'lucide-react'
 
 export const NAV_ITEMS = [
@@ -26,6 +27,12 @@ export const NAV_ITEMS = [
     label: 'Dashboard',
     to:    '/overview',
     icon:  LayoutDashboard,
+  },
+  {
+    id:    'top-content',
+    label: 'Top Content',
+    to:    '/top-content',
+    icon:  Star,
   },
 
   // ── TikTok ──────────────────────────────────────────────────────────────
